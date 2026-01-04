@@ -13,3 +13,6 @@ venv.bak/
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
 uv.lock
+
+
+notes.txt
